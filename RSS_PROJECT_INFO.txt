@@ -1,0 +1,10 @@
+												
+	Simple Rss Reader												
+	
+    Backend Language:Python 
+    Framework:Flask
+	Frontend:HTML,CSS
+	NOTE:I used feedparser to parse dataformat(RSS)
+	
+1)	Run index file rss.py.
+2) 	rss.py file redirect on rss.html,this file gives details about the Title,Summary,Link details.
